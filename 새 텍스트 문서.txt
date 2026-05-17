@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>카카오톡 연결</title>
+
+<meta http-equiv="refresh" content="0;url=https://open.kakao.com/o/syh7JMui">
+
+</head>
+<body>
+
+<script>
+window.location.href = "https://open.kakao.com/o/syh7JMui";
+</script>
+
+</body>
+</html>
+
+<meta property="og:title" content="무료 안내 바로가기">
+<meta property="og:description" content="눌러서 카카오톡 연결">
+<meta property="og:image" content="https://anxkf111122-svg.github.io/catchit/images/thumbnail.png">
